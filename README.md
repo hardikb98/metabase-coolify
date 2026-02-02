@@ -175,6 +175,5 @@ These filters apply across all dashboards for flexible analysis:
 
 ## 👤 Author
 
-**[Your Name]**  
-📊 Data Analytics | Business Intelligence | Metabase  
-🔗 Portfolio | GitHub | LinkedIn
+**Hardik Bhandare**  
+📊 Data Analytics | Business Intelligence | Metabase 
